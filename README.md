@@ -1,3 +1,11 @@
+# Server API route protection
+
+This is a minimal example of how to protect API routes by requiring authentication but marking a part of the API (ex.
+the part that logs you in!) as available to unauthenticated requests.
+
+Relevant docs: 
+* Sidebase docs on server route protection with server middleware:  https://sidebase.io/nuxt-auth/server-side/session-access-and-route-protection#server-middleware 
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
